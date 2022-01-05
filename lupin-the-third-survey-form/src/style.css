@@ -1,0 +1,23 @@
+html, body {
+  text-align: center;
+  font-family: 'Sarabun', sans-serif;
+  margin: 2em;
+}
+#title {
+  border: 5px auto;
+  padding: 25px;
+  background-color: #F5F5DC;
+}
+p {
+  line-height: 21px;
+}
+#middle{
+  
+  border: 5px auto;
+  padding: 20px 100px 50px 100px;
+  background-color: #FFFAF0;
+}
+textarea {
+  vertical-align: top;
+  margin-left: 10px;
+}
